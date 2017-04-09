@@ -3,8 +3,8 @@ Include passive skills to your game (1.0 Beta) (Spigot 1.11.2)
 
 Commands:
 - /cps list
-- /cps show <skill>
-- /cps upgrade <skill>
+- /cps show [skill]
+- /cps upgrade [skill]
 
 Skills:
 - HP (+2 base health per level)
