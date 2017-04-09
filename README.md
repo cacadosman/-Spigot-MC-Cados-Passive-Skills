@@ -1,5 +1,5 @@
 # SpigotMC-CadosPassiveSkills
-Include passive skills to your game (1.0 Beta) (Spigot 1.11.2)
+Add passive skills to your game (1.0 Beta) (Spigot 1.11.2)
 
 Commands:
 - /cps list
