@@ -1,0 +1,13 @@
+name: CadosPS
+main: cadospassiveskills.Main
+version: 1.0 Beta
+
+commands:
+    cps:
+        description: You can customize your passive skills
+    cps list:
+        description: Show passive skills list
+    cps show <skill>:
+        description: Show selected passive skill info
+    cps upgrade <skill>:
+        description: Upgrade selected passive skill level
