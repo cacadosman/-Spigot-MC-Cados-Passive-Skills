@@ -1,5 +1,7 @@
 # SpigotMC-CadosPassiveSkills
-[![](https://img.shields.io/badge/cacadosman-cados-red.svg)](https://shields.io)
+[![](https://img.shields.io/badge/cacadosman-McPlugin-red.svg)](https://shields.io)
+![Travis](https://img.shields.io/travis/cacadosman/SpigotMC-CadosPassiveSkills.svg) [![GitHub release](https://img.shields.io/github/release/cacadosman/SpigotMC-CadosPassiveSkills.svg)](https://github.com/Loli-Master/Kalkulator/releases/tag/1.0) ![license](https://img.shields.io/github/license/cacadosman/SpigotMC-CadosPassiveSkills.svg)<br>
+
 Add passive skills to your game 
 
 Commands:
