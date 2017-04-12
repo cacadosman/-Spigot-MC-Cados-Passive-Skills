@@ -1,6 +1,6 @@
 # SpigotMC-CadosPassiveSkills
 [![](https://img.shields.io/badge/cacadosman-McPlugin-red.svg)](https://shields.io)
-(https://github.com/cacadosman/SpigotMC-CadosPassiveSkills) ![license](https://img.shields.io/github/license/mashape/apistatus.svg)<br>
+![license](https://img.shields.io/github/license/mashape/apistatus.svg)<br>
 
 Add passive skills to your game 
 
