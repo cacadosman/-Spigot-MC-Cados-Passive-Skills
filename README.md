@@ -1,5 +1,6 @@
 # SpigotMC-CadosPassiveSkills
-Add passive skills to your game (1.0 Beta) (Spigot 1.11.2)
+[![](https://img.shields.io/badge/cacadosman-red.svg)](https://shields.io)
+Add passive skills to your game 
 
 Commands:
 - /cps list
