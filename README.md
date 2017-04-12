@@ -1,5 +1,5 @@
 # SpigotMC-CadosPassiveSkills
-[![](https://img.shields.io/badge/cacadosman-red.svg)](https://shields.io)
+[![](https://img.shields.io/badge/cacadosman-cados-red.svg)](https://shields.io)
 Add passive skills to your game 
 
 Commands:
